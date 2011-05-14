@@ -1,6 +1,6 @@
 Summary: Fetion protocol library powered by ofetion project
 Name: libofetion
-Version: 2.1.0
+Version: 2.2.0
 Release: %mkrel 1
 Group: Networking/Instant messaging
 License: GPLv2+
@@ -19,7 +19,7 @@ Protocol Version 4.
 
 %files
 %defattr(-,root,root)
-%{_datadir}/openfetion/resource
+%{_datadir}/libofetion1
 
 #---------------------------------------------------------------
 %define major 1
