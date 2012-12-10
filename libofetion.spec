@@ -74,3 +74,14 @@ rm -rf $RPM_BUILD_ROOT
 
 %clean
 rm -rf $RPM_BUILD_ROOT
+
+
+%changelog
+* Sat May 14 2011 Funda Wang <fwang@mandriva.org> 2.2.0-1mdv2011.0
++ Revision: 674434
+- new version 2.2.0
+
+* Sun Dec 26 2010 Funda Wang <fwang@mandriva.org> 2.1.0-1mdv2011.0
++ Revision: 625215
+- import libofetion
+
