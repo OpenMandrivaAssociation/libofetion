@@ -4,7 +4,7 @@ Version: 2.2.0
 Release: 2
 Group: Networking/Instant messaging
 License: GPLv2+
-URL: http://code.google.com/p/ofetion/
+URL: https://code.google.com/p/ofetion/
 Source0: http://ofetion.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-root
 BuildRequires: openssl-devel
